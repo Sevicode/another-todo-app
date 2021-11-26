@@ -9,7 +9,7 @@ I decided to learn **TypeScript** by building applications instead of watching t
 
 It is not uploaded anywhere and to use it you will need to install the following:
 
-* [npm]((https://docs.npmjs.com/downloading-and-installing-node-js-and-npm))
+* [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 * [node](https://nodejs.org/en/download/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [React](https://reactjs.org/docs/getting-started.html)
